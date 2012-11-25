@@ -1,0 +1,10 @@
+cache:
+  page:
+    enabled: '0'
+    max_age: '0'
+preprocess:
+  css: '0'
+  js: '0'
+  stale_file_threshold: '2592000'
+response:
+  gzip: '0'
